@@ -1,2 +1,2 @@
 # ToanRoiRac
-CODE Bài tập toán rời rạc
+CODE Bài tập lớn toán rời rạc
